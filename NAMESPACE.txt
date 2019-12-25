@@ -1,0 +1,69 @@
+GAIA NAMESPACE
+==============
+
+Gaia\Behavioral
+        Menampung seluruh klas utama: Elemen, Evidence, ...
+
+Gaia\Modules\ModuleName
+        ModuleName adalah nama tool: AIME, CSI, FGD, dst, termasuk
+        modul Integration
+
+Gaia\Reporting
+        Modul reporting
+
+Gaia\Development
+        Modul untuk pengembangan modul
+
+Gaia\App\
+
+
+Core Classes
+============
+
+Element     : 
+Evidence    : 
+Workbook    : Lembar kerja
+EvidenceBook: Lembar jawaban
+Module      : Paket tes
+TestType    : Tipe tes
+Scorer      : Mesin penyekor
+Reviewer    : 
+
+
+Sample Elements
+===============
+ACH Achievement-striving
+ACT Activity level
+ADV Adventurousness
+AGR Agreeableness
+ALT Altruism
+ANG Anger
+ANX Anxiety
+ART Artistic interests
+ASS Assertiveness
+CAU Cautiousness
+CHE Cheerfulness
+CON Conscientiousness
+COO Cooperation
+DEP Depression
+DUT Dutifulness
+EMO Emotionality
+EXC Excitement-seeking
+EXT Extraversion
+FRI Friendliness
+GRE Gregariousness
+IMA Imagination
+IMM Immoderation
+INT Intellect
+LIB Liberalism
+MOD Modesty
+MOR Morality
+NEU Neurotism
+OPE Openness
+ORD Orderliness
+SEC Self-consciousness
+SED Self-discipline
+SEL Self-efficacy
+SYM Sympathy
+TRU Trust
+VUL Vulnerability
