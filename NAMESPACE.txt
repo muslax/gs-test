@@ -20,14 +20,15 @@ Gaia\App\
 Core Classes
 ============
 
-Element     : 
-Evidence    : 
+Element     :
+ElementRepository/ElementCollection: 
+Evidence    :
 Workbook    : Lembar kerja
 EvidenceBook: Lembar jawaban
 Module      : Paket tes
 TestType    : Tipe tes
 Scorer      : Mesin penyekor
-Reviewer    : 
+Reviewer    :
 
 
 Sample Elements
